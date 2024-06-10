@@ -25,7 +25,7 @@
 
 <script lang="ts" setup>
 interface Props {
-  id: string
+  id: number
 }
 defineProps<Props>();
 
